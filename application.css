@@ -1,0 +1,16 @@
+body {
+ margin: 0px 0px 0px 0px;
+ padding: 0px;
+}
+
+webview {
+ height: 740px;
+ width: 100%;
+}
+/*
+button {
+> left: auto;
+ position: absolute;
+ right: 6px;
+}
+*/
